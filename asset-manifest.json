@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Expressions/static/css/main.08b35e20.css",
+    "main.js": "/Expressions/static/js/main.395a26d3.js",
+    "static/media/surprised.mp4": "/Expressions/static/media/surprised.cb036d694174ba94c934.mp4",
+    "static/media/happy.mp4": "/Expressions/static/media/happy.3b9e14db704c6d801fc3.mp4",
+    "static/media/neutral.mp4": "/Expressions/static/media/neutral.6f8822de2ed1e1de657c.mp4",
+    "static/media/default.mp4": "/Expressions/static/media/default.1e60788d4b677fb4ce98.mp4",
+    "static/media/sad.mp4": "/Expressions/static/media/sad.9edb0b10c05dc8ec5822.mp4",
+    "static/media/disgusted.mp4": "/Expressions/static/media/disgusted.8002dd0f6fbfae524277.mp4",
+    "static/media/angry.mp4": "/Expressions/static/media/angry.02b93f4eab0caab8f6c4.mp4",
+    "static/media/spotify.png": "/Expressions/static/media/spotify.cd2c2228d20d582d5ef5.png",
+    "static/media/disgusted.jpg": "/Expressions/static/media/disgusted.e82d4fc27d74c8a3a1e0.jpg",
+    "index.html": "/Expressions/index.html",
+    "main.08b35e20.css.map": "/Expressions/static/css/main.08b35e20.css.map",
+    "main.395a26d3.js.map": "/Expressions/static/js/main.395a26d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08b35e20.css",
+    "static/js/main.395a26d3.js"
+  ]
+}
